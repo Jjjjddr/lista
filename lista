@@ -1,6 +1,4 @@
 #EXTM3U
 
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="" group-title="Desenhos", https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/cartoonnetwork_511a418e_1df5321c960dcf89a1dd8881ffab2e075350c520/playlist.m3u
+#EXTINF:-1 tvg-logo="" group-title="Desenhos",Cartoon Network
+https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/cartoonnetwork_511a418e_1df5321c960dcf89a1dd8881ffab2e075350c520/playlist.m3u
